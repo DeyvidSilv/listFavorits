@@ -14,7 +14,7 @@ export default function Home() {
                 <table>
                     <thead>
                         <tr>
-                            <th>Nome</th>
+                            <th>Filmes</th>
                             <th>Favoritos</th>
                         </tr>
                     </thead>
