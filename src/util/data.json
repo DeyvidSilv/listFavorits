@@ -1,0 +1,56 @@
+{
+  "list": {
+    "listOptions": [
+      {
+          "id": "foor-1",
+          "name": "Os Vingadores",
+          "checked": false
+      },
+      {
+          "id": "foor-2",
+          "name": "Homem de Ferro",
+          "checked": false
+      },
+      {
+          "id": "foor-3",
+          "name": "Homem de Ferro 2",
+          "checked": false
+      },
+      {
+          "id": "foor-4",
+          "name": "Homeme de Ferro 3",
+          "checked": false
+      },
+      {
+          "id": "foor-5",
+          "name": "Vingadores Ultimato",
+          "checked": true
+      },
+      {
+          "id": "foor-6",
+          "name": "Velozes e Furiosos",
+          "checked": false
+      },
+      {
+          "id": "foor-7",
+          "name": "Velozes e Furiosos 2",
+          "checked": false
+      },
+      {
+          "id": "foor-8",
+          "name": "Velozes e Furiosos 3",
+          "checked": false
+      },
+      {
+          "id": "foor-9",
+          "name": "Velozes e Furiosos 4",
+          "checked": false
+      },
+      {
+          "id": "foor-10",
+          "name": "Velozes e Furiosos 5",
+          "checked": false
+      }
+    ]
+  }
+}
