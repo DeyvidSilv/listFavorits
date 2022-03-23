@@ -15,7 +15,7 @@ export default function Home() {
                     <thead>
                         <tr>
                             <th>Nome</th>
-                            <th>Favorito</th>
+                            <th>Favoritos</th>
                         </tr>
                     </thead>
                     <tbody>
